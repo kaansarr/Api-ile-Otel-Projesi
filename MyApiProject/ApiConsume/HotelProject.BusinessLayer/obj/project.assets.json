@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
       "projectName": "HotelProject.BusinessLayer",
-      "projectPath": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",

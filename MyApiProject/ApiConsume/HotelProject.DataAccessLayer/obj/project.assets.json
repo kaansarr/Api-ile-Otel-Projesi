@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
       "projectName": "HotelProject.DataAccessLayer",
-      "projectPath": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",

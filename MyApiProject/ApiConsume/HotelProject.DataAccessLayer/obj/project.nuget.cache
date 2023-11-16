@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBmu6e1oK7wcglx0kpys3Sh/eBtaYKkfvbZ6gV+DTrcSRy/R9kEw4jID0wf1b5KgSDzlVUWLN55J/Sbb8ebaBw==",
+  "dgSpecHash": "AAaIXWdkU4XIiu7IjEBl57DgZNpGlHS6N1OcVuCNQUmHjy7Vt5QxPTQT4fR3wwm6rEO9pde5euMH2CsxDuX6ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\Desktop\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-ile-Otel-Projesi\\MyApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
