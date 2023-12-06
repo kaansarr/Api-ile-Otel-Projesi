@@ -1,5 +1,4 @@
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.deps.json
-C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.runtimeconfig.json
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
@@ -10,5 +9,6 @@ C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\Hote
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.dll
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\refint\HotelProject.EntityLayer.dll
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.pdb
-C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.genruntimeconfig.cache
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\ref\HotelProject.EntityLayer.dll
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.runtimeconfig.json
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.genruntimeconfig.cache
