@@ -9,6 +9,7 @@ namespace HotelProject.WebUI.Dtos.ServiceDto
         public string ServiceIcon { get; set; }
 
         [Required(ErrorMessage = "Hizmet Başlığı  Giriniz")]
+        [StringLength(100,ErrorMessage ="Hizmet Başlığı en fazla 100 karakter olmalıdır")]
 
         public string Title { get; set; }
 
