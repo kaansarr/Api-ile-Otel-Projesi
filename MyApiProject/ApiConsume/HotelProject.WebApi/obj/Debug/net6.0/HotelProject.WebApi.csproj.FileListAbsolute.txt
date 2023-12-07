@@ -76,3 +76,8 @@ C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\Hote
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\ref\HotelProject.WebApi.dll
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kaan\Documents\GitHub\Api-ile-Otel-Projesi\MyApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
